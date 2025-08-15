@@ -4,8 +4,6 @@ __pycache__/
 
 # Ignore model files
 models/
-*.h5
-*.keras
 *.pkl
 *.joblib
 
