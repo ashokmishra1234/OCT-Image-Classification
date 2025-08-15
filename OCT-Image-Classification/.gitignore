@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model files
+models/
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Ignore dataset
+data/
+*.csv
+*.zip
+*.tar.gz
+# Ignore virtual environment
+venv/
+.env/
